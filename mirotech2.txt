@@ -1,0 +1,25 @@
+<html>
+ <head>
+ <title>Mirotech Technology</title>
+ </head>
+ <body>
+ <h1>Mirotech in China</h1>
+ <p>
+ Products
+ </p>
+ <h2>Ring Light</h2>
+ <img src="images/mirotech2.jpg">
+ <p>
+ Informations
+ </p>
+ <h2>Support</h2>
+ <p>
+ What's happening now at Mirotech
+ </p>
+ <h2>Microphone</h2>
+ <img src="images/mirotech1.jpg">
+ <p>
+ Lightnings
+ </p>
+ </body>
+</html>
